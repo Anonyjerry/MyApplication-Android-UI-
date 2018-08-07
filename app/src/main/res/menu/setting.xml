@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/WiFi_Set"
+        android:title="Wifi Setting" />
+    <item
+        android:id="@+id/TCPIP_Set"
+        android:title="TCPIP Setting" />
+    <item
+        android:id="@+id/mTime"
+        android:title="Time" />
+    <item
+        android:id="@+id/More_Set"
+        android:title="More" />
+    <item
+        android:id="@+id/About"
+        android:title="About" />
+
+
+</menu>
